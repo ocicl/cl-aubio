@@ -1,0 +1,10 @@
+* cl-aubio
+
+Aubio bindings for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Lautaro-Garcia/cl-aubio.git   |
+| commit  | 07e6eed  |
+| systems | cl-aubio |
+|---------+-------------------------------------------|
+
